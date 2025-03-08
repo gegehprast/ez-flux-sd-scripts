@@ -1,2 +1,5 @@
 venv/
 sd-scripts/
+models/clip/*
+models/unet/*
+models/vae/*
